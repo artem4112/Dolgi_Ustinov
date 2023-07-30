@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pr9</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="tab_text_3">Вкладка 3</string>
+</resources>
